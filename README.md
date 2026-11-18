@@ -7,13 +7,6 @@
 <h1 align="center">Matheus Matias</h1>
 <p align="center">Analista de Suporte em TI · Construindo carreira em infraestrutura, redes e segurança</p>
 
-<!-- Redes sociais -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheus-matias-06340730a/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark" /><img width="40" alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&theme=light" /></picture></a>&nbsp;
-  <a href="https://www.instagram.com/matiascoutinho_"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=instagram&theme=dark" /><img width="40" alt="Instagram" src="https://skillicons.dev/icons?i=instagram&theme=light" /></picture></a>&nbsp;
-  <a href="https://open.spotify.com/user/rh5o5b2fa92ins9o43o8yxkbw"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spotify&theme=dark" /><img width="40" alt="Spotify" src="https://skillicons.dev/icons?i=spotify&theme=light" /></picture></a>
-</p>
-
 <br />
 
 <!-- Galaga: gerado pela Action .github/workflows/arcade.yml -->
