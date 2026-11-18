@@ -1,7 +1,7 @@
-<!-- Banner: troca sozinho entre o tema escuro e o claro do GitHub -->
+<!-- Banner (assets/ do próprio repositório, não depende de site externo) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&color=0:0d1117,100:1f6feb&v=2" />
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&color=0:ffffff,100:1f6feb" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusMatiasCoutinho/MatheusMatiasCoutinho/main/assets/wave-header-dark.svg" />
+  <img width="100%" alt="" src="https://raw.githubusercontent.com/MatheusMatiasCoutinho/MatheusMatiasCoutinho/main/assets/wave-header-light.svg" />
 </picture>
 
 <h1 align="center">Matheus Matias</h1>
@@ -20,8 +20,8 @@
 <!-- Ícones em 2 linhas de 8: linha 1 = sistemas e terminal | linha 2 = desenvolvimento e ferramentas -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,bash,powershell,git,github,python,java,mysql,html,css,grafana,figma,vscode&perline=8&theme=dark&v=2" />
-    <img alt="Linux, Debian, Ubuntu, Windows, Bash, PowerShell, Git, GitHub, Python, Java, MySQL, HTML, CSS, Grafana, Figma, VS Code" src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,bash,powershell,git,github,python,java,mysql,html,css,grafana,figma,vscode&perline=8&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusMatiasCoutinho/MatheusMatiasCoutinho/main/assets/stack-dark.svg" />
+    <img width="442" alt="Linux, Debian, Ubuntu, Windows, Bash, PowerShell, Git, GitHub, Python, Java, MySQL, HTML, CSS, Grafana, Figma, VS Code" src="https://raw.githubusercontent.com/MatheusMatiasCoutinho/MatheusMatiasCoutinho/main/assets/stack-light.svg" />
   </picture>
 </p>
 
@@ -42,6 +42,6 @@
 
 <!-- Rodapé -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=true&color=0:0d1117,100:1f6feb&v=2" />
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=true&color=0:ffffff,100:1f6feb" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusMatiasCoutinho/MatheusMatiasCoutinho/main/assets/wave-footer-dark.svg" />
+  <img width="100%" alt="" src="https://raw.githubusercontent.com/MatheusMatiasCoutinho/MatheusMatiasCoutinho/main/assets/wave-footer-light.svg" />
 </picture>
