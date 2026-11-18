@@ -1,77 +1,54 @@
-<!-- TÍTULO -->
-<h1 align="center">Matheus Matias | Analista de Suporte em TI</h1>
-
-<!-- BANNER -->
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontColor=FFFFFF&color=0:0d1117,100:1f6feb" />
-</div>
-
-<br clear="both">
-
-<!-- REDES SOCIAIS -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/matheus-matias-06340730a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" />
-  </a>
-  <a href="https://open.spotify.com/user/rh5o5b2fa92ins9o43o8yxkbw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="50" />
-  </a>
-  <a href="https://www.instagram.com/matiascoutinho_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" />
-  </a>
-</div>
-
-<!-- PACMAN -->
+<!-- Banner: troca sozinho entre o tema escuro e o claro do GitHub -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusMatiasCoutinho/MatheusMatiasCoutinho/pacman-output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman graph" src="https://raw.githubusercontent.com/MatheusMatiasCoutinho/MatheusMatiasCoutinho/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&color=0:0d1117,100:1f6feb" />
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&color=0:ffffff,100:1f6feb" />
 </picture>
 
-<!-- INFRA -->
-<h2 align="center">🧩 Infraestrutura & Suporte</h2>
+<h1 align="center">Matheus Matias</h1>
+<p align="center">Analista de Suporte em TI · Construindo carreira em infraestrutura, redes e segurança</p>
 
-<div align="center">
-  <!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" />
+<!-- Redes sociais -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-matias-06340730a/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark" /><img width="40" alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&theme=light" /></picture></a>&nbsp;
+  <a href="https://www.instagram.com/matiascoutinho_"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=instagram&theme=dark" /><img width="40" alt="Instagram" src="https://skillicons.dev/icons?i=instagram&theme=light" /></picture></a>&nbsp;
+  <a href="https://open.spotify.com/user/rh5o5b2fa92ins9o43o8yxkbw"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spotify&theme=dark" /><img width="40" alt="Spotify" src="https://skillicons.dev/icons?i=spotify&theme=light" /></picture></a>
+</p>
 
-  <img width="12" />
+<br />
 
-  <!-- Azure -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" />
+<!-- Galaga: gerado pela Action .github/workflows/arcade.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusMatiasCoutinho/MatheusMatiasCoutinho/pacman-output/galaga-contribution-graph-dark.svg" />
+  <img width="100%" alt="Galaga no meu gráfico de contribuições" src="https://raw.githubusercontent.com/MatheusMatiasCoutinho/MatheusMatiasCoutinho/pacman-output/galaga-contribution-graph.svg" />
+</picture>
 
-  <img width="12" />
+<h3 align="center">Tecnologias</h3>
 
-  <!-- Fortigate (SE QUISER usar imagem local, troca o src depois) -->
-  <img src="https://tse2.mm.bing.net/th/id/OIP.EV0NzB8RpRlT02n0Q-OEwgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="60" />
-</div>
+<!-- Ícones em 2 linhas de 8: linha 1 = sistemas e terminal | linha 2 = desenvolvimento e ferramentas -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,bash,powershell,git,github,python,java,mysql,html,css,grafana,figma,vscode&perline=8&theme=dark" />
+    <img alt="Linux, Debian, Ubuntu, Windows, Bash, PowerShell, Git, GitHub, Python, Java, MySQL, HTML, CSS, Grafana, Figma, VS Code" src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,bash,powershell,git,github,python,java,mysql,html,css,grafana,figma,vscode&perline=8&theme=light" />
+  </picture>
+</p>
 
-<!-- MONITORAMENTO -->
-<h3 align="left">📊 Monitoramento</h3>
+<!-- Ferramentas do trabalho: chips na mesma cor dos ícones -->
+<!-- Linha 1: infraestrutura e rede | Linha 2: ecossistema Microsoft -->
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Proxmox_VE-242938?style=for-the-badge" /><img alt="Proxmox VE" src="https://img.shields.io/badge/Proxmox_VE-F4F2ED?style=for-the-badge" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Hyper--V-242938?style=for-the-badge" /><img alt="Hyper-V" src="https://img.shields.io/badge/Hyper--V-F4F2ED?style=for-the-badge" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/OPNsense-242938?style=for-the-badge" /><img alt="OPNsense" src="https://img.shields.io/badge/OPNsense-F4F2ED?style=for-the-badge" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FortiGate-242938?style=for-the-badge" /><img alt="FortiGate" src="https://img.shields.io/badge/FortiGate-F4F2ED?style=for-the-badge" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Wireshark-242938?style=for-the-badge" /><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-F4F2ED?style=for-the-badge" /></picture>
+  <br />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Windows_Server-242938?style=for-the-badge" /><img alt="Windows Server" src="https://img.shields.io/badge/Windows_Server-F4F2ED?style=for-the-badge" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Active_Directory-242938?style=for-the-badge" /><img alt="Active Directory" src="https://img.shields.io/badge/Active_Directory-F4F2ED?style=for-the-badge" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Microsoft_365-242938?style=for-the-badge" /><img alt="Microsoft 365" src="https://img.shields.io/badge/Microsoft_365-F4F2ED?style=for-the-badge" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Intune-242938?style=for-the-badge" /><img alt="Intune" src="https://img.shields.io/badge/Intune-F4F2ED?style=for-the-badge" /></picture>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" />
-</div>
-
-<!-- FERRAMENTAS -->
-<h3 align="left">💻 Ferramentas</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" />
-</div>
-
-<!-- LINGUAGENS -->
-<h3 align="left">🧠 Linguagens</h3>
-
-<div align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-
-  <img width="12" />
-
-  <!-- PHP -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-</div>
+<!-- Rodapé -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=true&color=0:0d1117,100:1f6feb" />
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=true&color=0:ffffff,100:1f6feb" />
+</picture>
