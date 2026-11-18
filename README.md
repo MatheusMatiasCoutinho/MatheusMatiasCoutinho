@@ -1,6 +1,6 @@
 <!-- Banner: troca sozinho entre o tema escuro e o claro do GitHub -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&color=0:0d1117,100:1f6feb" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&color=0:0d1117,100:1f6feb&v=2" />
   <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&color=0:ffffff,100:1f6feb" />
 </picture>
 
@@ -17,15 +17,11 @@
 
 <h3 align="center">Tecnologias</h3>
 
+<!-- Ícones em 2 linhas de 8: linha 1 = sistemas e terminal | linha 2 = desenvolvimento e ferramentas -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,bash,powershell,git,github&theme=dark" />
-    <img alt="Linux, Debian, Ubuntu, Windows, Bash, PowerShell, Git, GitHub" src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,bash,powershell,git,github&theme=light" />
-  </picture>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,mysql,html,css,grafana,figma,vscode&theme=dark" />
-    <img alt="Python, Java, MySQL, HTML, CSS, Grafana, Figma, VS Code" src="https://skillicons.dev/icons?i=python,java,mysql,html,css,grafana,figma,vscode&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,bash,powershell,git,github,python,java,mysql,html,css,grafana,figma,vscode&perline=8&theme=dark&v=2" />
+    <img alt="Linux, Debian, Ubuntu, Windows, Bash, PowerShell, Git, GitHub, Python, Java, MySQL, HTML, CSS, Grafana, Figma, VS Code" src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,bash,powershell,git,github,python,java,mysql,html,css,grafana,figma,vscode&perline=8&theme=light" />
   </picture>
 </p>
 
@@ -46,6 +42,6 @@
 
 <!-- Rodapé -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=true&color=0:0d1117,100:1f6feb" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=true&color=0:0d1117,100:1f6feb&v=2" />
   <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=true&color=0:ffffff,100:1f6feb" />
 </picture>
