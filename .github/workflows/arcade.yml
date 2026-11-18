@@ -1,14 +1,17 @@
 name: Generate arcade animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    # A cada 12 horas, no minuto 17 (fora do pico da hora cheia no GitHub)
+    - cron: "17 */12 * * *"
 
+  # Botão "Run workflow" na aba Actions
   workflow_dispatch:
 
+  # Roda também a cada commit na main (ex.: quando você edita o README)
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -18,14 +21,15 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: Gerar o Galaga (versão clara e escura)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'pacman'
+          games: 'galaga'
+          # Esconde a linha com os nomes dos meses (visual mais limpo)
+          hide_month_labels: 'true'
 
-
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: Publicar os SVGs na branch pacman-output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: pacman-output
